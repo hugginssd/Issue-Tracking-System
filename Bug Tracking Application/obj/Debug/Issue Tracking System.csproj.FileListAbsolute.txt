@@ -1,0 +1,21 @@
+C:\Users\user\source\repos\Bug Tracking Application\Bug Tracking Application\bin\Debug\Bug Tracking Application.exe.config
+C:\Users\user\source\repos\Bug Tracking Application\Bug Tracking Application\bin\Debug\Bug Tracking Application.exe
+C:\Users\user\source\repos\Bug Tracking Application\Bug Tracking Application\bin\Debug\Bug Tracking Application.pdb
+C:\Users\user\source\repos\Bug Tracking Application\Bug Tracking Application\obj\Debug\Issue Tracking System.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\Bug Tracking Application\Bug Tracking Application\obj\Debug\Bug_Tracking_Application.BTA_AddProject.resources
+C:\Users\user\source\repos\Bug Tracking Application\Bug Tracking Application\obj\Debug\Bug_Tracking_Application.BTA_AddUser.resources
+C:\Users\user\source\repos\Bug Tracking Application\Bug Tracking Application\obj\Debug\Bug_Tracking_Application.BTA_Admin_Panel.resources
+C:\Users\user\source\repos\Bug Tracking Application\Bug Tracking Application\obj\Debug\Bug_Tracking_Application.UI.BTA_BugAssign.resources
+C:\Users\user\source\repos\Bug Tracking Application\Bug Tracking Application\obj\Debug\Bug_Tracking_Application.UI.BTA_BugList.resources
+C:\Users\user\source\repos\Bug Tracking Application\Bug Tracking Application\obj\Debug\Bug_Tracking_Application.BTA_BugReport.resources
+C:\Users\user\source\repos\Bug Tracking Application\Bug Tracking Application\obj\Debug\Bug_Tracking_Application.UI.BTA_Help.resources
+C:\Users\user\source\repos\Bug Tracking Application\Bug Tracking Application\obj\Debug\Bug_Tracking_Application.BTA_HomePage.resources
+C:\Users\user\source\repos\Bug Tracking Application\Bug Tracking Application\obj\Debug\Bug_Tracking_Application.UI.BTA_Profile.resources
+C:\Users\user\source\repos\Bug Tracking Application\Bug Tracking Application\obj\Debug\Bug_Tracking_Application.BTA_ProjectList.resources
+C:\Users\user\source\repos\Bug Tracking Application\Bug Tracking Application\obj\Debug\Bug_Tracking_Application.UI.BTA_Task.resources
+C:\Users\user\source\repos\Bug Tracking Application\Bug Tracking Application\obj\Debug\Bug_Tracking_Application.Form1.resources
+C:\Users\user\source\repos\Bug Tracking Application\Bug Tracking Application\obj\Debug\Bug_Tracking_Application.Properties.Resources.resources
+C:\Users\user\source\repos\Bug Tracking Application\Bug Tracking Application\obj\Debug\Issue Tracking System.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Bug Tracking Application\Bug Tracking Application\obj\Debug\Issue Tracking System.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Bug Tracking Application\Bug Tracking Application\obj\Debug\Bug Tracking Application.exe
+C:\Users\user\source\repos\Bug Tracking Application\Bug Tracking Application\obj\Debug\Bug Tracking Application.pdb
